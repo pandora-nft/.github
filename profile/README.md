@@ -6,6 +6,12 @@
 - Binance Smart Chain (Testnet)
 - Polygon (Testnet)
 - Avalanche (Testnet)
+
+📈 Subgraph:
+- https://thegraph.com/hosted-service/subgraph/pannavich/pandora-nft-chapel
+- https://thegraph.com/hosted-service/subgraph/pannavich/pandora-nft-mumbai
+- https://thegraph.com/hosted-service/subgraph/pannavich/pandora-nft-fuji
+
 <!--
 **Here are some ideas to get you started:**
 
