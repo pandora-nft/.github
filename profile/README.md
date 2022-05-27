@@ -40,7 +40,7 @@ You can visit our deployed [website](https://pandora.on.fleek.co) and start play
 
 # Website
 
-Go to website repository [here](https://github.com/pandora-nft/website)
+Go to website repository [here](https://github.com/pandora-nft/website) and clone to your local machine
 
 ## Install Dependencies
 
@@ -67,7 +67,7 @@ then visit http://localhost:3000/
 
 # Smart contracts
 
-Go to contracts repository [here](https://github.com/pandora-nft/contracts)
+Go to contracts repository [here](https://github.com/pandora-nft/contracts) and clone to your local machine
 
 ## Add Environment Variables
 
