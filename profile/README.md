@@ -1,6 +1,6 @@
-# Pandora - The NFT Lootbox 📦
+# Pandora - The NFT Lootbox 
 
-![landingPage](./Landing_Page.png)
+![landingPage](Landing_Page.png)
 
 👀 Visit us here: https://pandora.on.fleek.co
 
@@ -58,15 +58,15 @@ There are 6 types of Pandora Ticket NFT.
 
 - ### The Normal Ticket
 
-    <img src="./Normal_Tickets.png" width="200">
+    <img src="Normal_Tickets.png" width="200">
 
 - ### The Winning Ticket
 
-    <img src="./Winning_Ticket.png" width="200">
+    <img src="Winning_Ticket.png" width="200">
 
 - ### The Claimed Ticket
 
-    <img src="./Claimed_Ticket.png" width="200">
+    <img src="Claimed_Ticket.png" width="200">
 
 - ### The Refundable Ticket
 
