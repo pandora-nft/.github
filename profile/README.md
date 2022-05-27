@@ -1,6 +1,8 @@
 # Pandora - The NFT Lootbox
 
-👀 Visit us here: https://pandora.on.fleek.co
+👀 Visit us here: https://pandora.on.fleek.co/
+
+  or here: https://pandora-nft.vercel.app/
 
 📱 Available on
 
