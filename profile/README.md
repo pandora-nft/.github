@@ -1,6 +1,6 @@
 # Pandora - The NFT Lootbox 
 
-![landingPage](Landing_Page.png)
+![landingPage](/profile/Landing_Page.png)
 
 ðŸ‘€ Visit us here: https://pandora.on.fleek.co
 
@@ -58,27 +58,27 @@ There are 6 types of Pandora Ticket NFT.
 
 - ### The Normal Ticket
 
-    <img src="Normal_Tickets.png" width="200">
+    <img src="/profile/Normal_Tickets.png" width="200">
 
 - ### The Winning Ticket
 
-    <img src="Winning_Ticket.png" width="200">
+    <img src="/profile/Winning_Ticket.png" width="200">
 
 - ### The Claimed Ticket
 
-    <img src="Claimed_Ticket.png" width="200">
+    <img src="/profile/Claimed_Ticket.png" width="200">
 
 - ### The Refundable Ticket
 
-    <img src="Refundable_Ticket.png" width="200">
+    <img src="/profile/Refundable_Ticket.png" width="200">
 
 - ### The Refunded Ticket
 
-    <img src="Refunded_Ticket.png" width="200">
+    <img src="/profile/Refunded_Ticket.png" width="200">
 
 - ### The Expired Ticket
 
-    <img src="Expired_Ticket.png" width="200">
+    <img src="/profile/Expired_Ticket.png" width="200">
 
 # How it works?
 
@@ -103,4 +103,4 @@ The ticket in the ticket buyer's hands will change from the normal ticket to a â
 
 # What's next for Pandora
 
-![roadmap](Roadmap.png)
+![roadmap](/profile/Roadmap.png)
