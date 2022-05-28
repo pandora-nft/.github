@@ -18,7 +18,7 @@
 
 # How to play with us
 
-You can visit our deployed [website](https://pandora.on.fleek.co) and start playing around with its functionality or read more about us [here](https://github.com/pandora-nft/website/blob/main/README.md)
+You can visit our deployed [website](https://pandora.on.fleek.co) and start playing around with its functionality or read more about us [here](https://github.com/pandora-nft/website/blob/main/README.md). There is also free mock nfts faucet for testing purpose in the profile/nft page.
 
 # How to run locally
 
